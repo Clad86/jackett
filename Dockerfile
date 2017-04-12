@@ -1,4 +1,4 @@
-FROM linuxserver/docker-jackett
+FROM linuxserver/jackett
 LABEL org.freenas.interactive="false"                                   \
       org.freenas.version="1"                                           \
       org.freenas.upgradeable="true"                                    \
